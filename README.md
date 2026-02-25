@@ -27,4 +27,4 @@ The main objective of this analysis is to demystify common beliefs within the ga
 
 ## 📂 Repository Contents
 * [`Project.ipynb`](./Project.ipynb): The Jupyter Notebook containing all the source code, data cleaning (e.g., extracting months to define seasons), and the complete analysis.
-* `metacritic_games.csv`: The original dataset used for the analysis.
+* [`metacritic_games.csv`](./metacritic_games.csv): The original dataset used for the analysis.
